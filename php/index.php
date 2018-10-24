@@ -92,72 +92,75 @@
 							<section class="posts">
 								<article>
 									<header>
-										<span class="date">April 24, 2017</span>
-										<h2><a href="#">Sed magna<br />
-										ipsum faucibus</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">全家便利店
+										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic02.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/market.png" width="1200px" height="340px" alt="" /></a>
+									<p>  全家（国定路店）位于五角场街道国定东路285号，是一家主要负责食品、日用品的销售的多功能便利店。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">超市便利</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 22, 2017</span>
-										<h2><a href="#">Primis eget<br />
-										imperdiet lorem</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">许鲜水果店<</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic03.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/vegetable.png" width="1200px" height="340px" alt="" /></a>
+									<p>许鲜水果店（五角场店）位于国痒路85号，坚持服务至上的理念，每日给顾客带来最新鲜的水果。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">新鲜果蔬</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 18, 2017</span>
-										<h2><a href="#">Ante mattis<br />
-										interdum dolor</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">85°C
+										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic04.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/bread.png" width="1200px" height="340px" alt="" /></a>
+									<p>85°C（三号湾店）位于国定路333号三号湾广场1楼，主要经营咖啡和甜点，希望产品呈现给顾客的是最优质质量、最美味和超值。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">烘培蛋糕</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 14, 2017</span>
-										<h2><a href="#">Tempus sed<br />
-										nulla imperdiet</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">味千拉面</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic05.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/food.png" width="1200px" height="340px" alt="" /></a>
+									<p>味千拉面（三号湾店）位于国定路333号三号湾F102号，是从日本引进的餐饮品牌，主打面食。其招牌猪软骨春笋拉面也跻身网红美食。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">美食餐饮</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 11, 2017</span>
-										<h2><a href="#">Odio magna<br />
-										sed consectetur</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">波奇四季ÉPOQUE
+									</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic06.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/flower.png" width="1200px" height="340px" alt="" /></a>
+									<p>波奇四季ÉPOQUE（五角场店）位于政民路301号，是波奇网旗下的高端花艺品牌，严选新鲜优质的花材，业务涵盖花束定制、礼品鲜花、婚礼布置等。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">鲜花绿植</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 7, 2017</span>
-										<h2><a href="#">Augue lorem<br />
-										primis vestibulum</a></h2>
+										<span class="date">入驻商家</span>
+										<h2><a href="#">摩尔齿科</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/pic07.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="../images/medical.png" width="1200px" height="340px" alt="" /></a>
+									<p>摩尔齿科（曲阳路旗舰店）位于曲阳路888号1-2F，致力于为广大市民朋友提供优质的口腔服务，擅长于牙齿种植，牙齿修复，牙齿矫正，牙周炎症治疗等口腔问题解决。
+                                    </p>
 									<ul class="actions special">
 										<li><a href="#" class="button">医药健康</a></li>
 									</ul>
@@ -227,18 +230,18 @@
                                 <h3>其它方式注册<br>
                                 other register ways</h3>
 								<ul class="icons alt">
-									<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon alt fa-weixin"><span class="label">微信Wechat</span></a></li>
+									<li><a href="#" class="icon alt fa-qq"><span class="label">QQ</span></a></li>
+									<li><a href="#" class="icon alt fa-weibo"><span class="label">微博Weibo</span></a></li>
 									<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 							</section>
 
+
                             <section class="col-4 col-12-small">
+                                <h3>注册类型：</h3>
                                 <input type="radio" id="demo-priority-low" name="demo-priority" checked>
                                 <label for="demo-priority-low">用户 For user</label>
-                            </>
-                            <section class="col-4 col-12-small">
                                 <input type="radio" id="demo-priority-normal" name="demo-priority">
                                 <label for="demo-priority-normal">商户 For business</label>
                             </section>
