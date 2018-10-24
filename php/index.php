@@ -79,7 +79,7 @@
 								</header>
 
 								<!-- Map:bug -->
-								<div id="mapG">
+								<div id="mapG" style="z-index:999;height:500px;weight:500px">
 
 								</div>
 								<!--<a href="#" class="image main"><img src="../images/bg.jpg" alt="" /></a>-->
@@ -96,7 +96,7 @@
 										<h2><a href="#">全家便利店
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/market.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/market.png" width="1200px" height="300px" alt="" /></a>
 									<p>  全家（国定路店）位于五角场街道国定东路285号，是一家主要负责食品、日用品的销售的多功能便利店。
                                     </p>
 									<ul class="actions special">
@@ -108,7 +108,7 @@
 										<span class="date">入驻商家</span>
 										<h2><a href="#">许鲜水果店<</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/vegetable.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/vegetable.png" width="1200px" height="300px" alt="" /></a>
 									<p>许鲜水果店（五角场店）位于国痒路85号，坚持服务至上的理念，每日给顾客带来最新鲜的水果。
                                     </p>
 									<ul class="actions special">
@@ -121,7 +121,7 @@
 										<h2><a href="#">85°C
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/bread.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/bread.png" width="1200px" height="300px" alt="" /></a>
 									<p>85°C（三号湾店）位于国定路333号三号湾广场1楼，主要经营咖啡和甜点，希望产品呈现给顾客的是最优质质量、最美味和超值。
                                     </p>
 									<ul class="actions special">
@@ -133,7 +133,7 @@
 										<span class="date">入驻商家</span>
 										<h2><a href="#">味千拉面</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/food.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/food.png" width="1200px" height="300px" alt="" /></a>
 									<p>味千拉面（三号湾店）位于国定路333号三号湾F102号，是从日本引进的餐饮品牌，主打面食。其招牌猪软骨春笋拉面也跻身网红美食。
                                     </p>
 									<ul class="actions special">
@@ -146,7 +146,7 @@
 										<h2><a href="#">波奇四季ÉPOQUE
 									</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/flower.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/flower.png" width="1200px" height="300px" alt="" /></a>
 									<p>波奇四季ÉPOQUE（五角场店）位于政民路301号，是波奇网旗下的高端花艺品牌，严选新鲜优质的花材，业务涵盖花束定制、礼品鲜花、婚礼布置等。
                                     </p>
 									<ul class="actions special">
@@ -158,7 +158,7 @@
 										<span class="date">入驻商家</span>
 										<h2><a href="#">摩尔齿科</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="../images/medical.png" width="1200px" height="340px" alt="" /></a>
+									<a href="#" class="image fit"><img src="../images/medical.png" width="1200px" height="300px" alt="" /></a>
 									<p>摩尔齿科（曲阳路旗舰店）位于曲阳路888号1-2F，致力于为广大市民朋友提供优质的口腔服务，擅长于牙齿种植，牙齿修复，牙齿矫正，牙周炎症治疗等口腔问题解决。
                                     </p>
 									<ul class="actions special">
@@ -224,6 +224,7 @@
 							<section>
                                 <label for="phone">手机号码Phone</label>
                                 <input type="number" name="phone" id="phone" />
+                                <p style="margin:1em;"><a href="index.php">点此获取验证码</a></p>
 							</section>
 
 							<section>
@@ -259,15 +260,15 @@
 		<!-- Scripts -->
 		<script type="text/javascript">
             // 百度地图API功能
-            var map = new BMap.Map("allmap");    // 创建Map实例
-            map.centerAndZoom(new BMap.Point(116.404, 39.915), 11);  // 初始化地图,设置中心点坐标和地图级别
+            var map = new BMap.Map("mapG");    // 创建Map实例
+            map.centerAndZoom(new BMap.Point(121.404, 31.915), 13);  // 初始化地图,设置中心点坐标和地图级别
             //添加地图类型控件
             map.addControl(new BMap.MapTypeControl({
                 mapTypes:[
                     BMAP_NORMAL_MAP,
                     BMAP_HYBRID_MAP
                 ]}));
-            map.setCurrentCity("北京");          // 设置地图显示的城市 此项是必须设置的
+            map.setCurrentCity("上海");          // 设置地图显示的城市 此项是必须设置的
             map.enableScrollWheelZoom(true);     //开启鼠标滚轮缩放
 		</script>
 			<script src="../assets/js/jquery.min.js"></script>
