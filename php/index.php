@@ -186,10 +186,11 @@
 
 				<!-- Footer For register-->
 					<footer id="footer" >
-
+							
 						<section>
+						<form method="post" action="register.php">
                             <a name="register"><h2>Register注册</h2></a>
-							<form method="post" action="#">
+							
 								<div class="fields">
 									<div class="field">
 										<label for="name">姓名Name</label>
@@ -213,7 +214,7 @@
 								<ul class="actions">
 									<li><input type="submit" value="REGISTER" /></li>
 								</ul>
-                            </form>
+                            
 
 						</section>
 						<section class="split contact">
@@ -241,12 +242,13 @@
 
                             <section class="col-4 col-12-small">
                                 <h3>注册类型：</h3>
-                                <input type="radio" id="demo-priority-low" name="demo-priority" checked>
+                                <input type="radio" id="demo-priority-low" name="demo-priority" value = "1"checked>
                                 <label for="demo-priority-low">用户 For user</label>
-                                <input type="radio" id="demo-priority-normal" name="demo-priority">
+                                <input type="radio" id="demo-priority-normal" name="demo-priority" value = "0">
                                 <label for="demo-priority-normal">商户 For business</label>
                             </section>
 						</section>
+						</form>
 					</footer>
 
                 <!-- Copyright -->
